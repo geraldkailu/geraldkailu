@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gerald Kai.
+- 👀 I’m a frontend developer in the making.
